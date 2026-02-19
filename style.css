@@ -1,0 +1,36 @@
+body {
+  background: #0d0d0d;
+  color: white;
+  font-family: Arial;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #e10600;
+}
+
+button {
+  background: #1f1f1f;
+  color: white;
+  border: 1px solid #e10600;
+  padding: 10px;
+  margin: 5px;
+  width: 100%;
+}
+
+.block {
+  background: #111;
+  border-left: 5px solid #2979ff;
+  padding: 10px;
+  margin-top: 15px;
+}
+
+.exercise {
+  margin: 8px 0;
+}
+
+input {
+  width: 60px;
+}
+
